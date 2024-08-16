@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Sources\CSharp\GestaoDeTarefas\TestesDeAdaptersDIO\TestesDeAdaptersDIO\bin\Debug\net7.0\AdaptersDIO.exe
+C:\Users\User\Documents\Sources\CSharp\GestaoDeTarefas\TestesDeAdaptersDIO\TestesDeAdaptersDIO\bin\Debug\net7.0\AdaptersDIO.deps.json
+C:\Users\User\Documents\Sources\CSharp\GestaoDeTarefas\TestesDeAdaptersDIO\TestesDeAdaptersDIO\bin\Debug\net7.0\AdaptersDIO.runtimeconfig.json
+C:\Users\User\Documents\Sources\CSharp\GestaoDeTarefas\TestesDeAdaptersDIO\TestesDeAdaptersDIO\bin\Debug\net7.0\AdaptersDIO.dll
+C:\Users\User\Documents\Sources\CSharp\GestaoDeTarefas\TestesDeAdaptersDIO\TestesDeAdaptersDIO\bin\Debug\net7.0\AdaptersDIO.pdb
+C:\Users\User\Documents\Sources\CSharp\GestaoDeTarefas\TestesDeAdaptersDIO\TestesDeAdaptersDIO\obj\Debug\net7.0\AdaptersDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Sources\CSharp\GestaoDeTarefas\TestesDeAdaptersDIO\TestesDeAdaptersDIO\obj\Debug\net7.0\AdaptersDIO.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Sources\CSharp\GestaoDeTarefas\TestesDeAdaptersDIO\TestesDeAdaptersDIO\obj\Debug\net7.0\AdaptersDIO.AssemblyInfo.cs
+C:\Users\User\Documents\Sources\CSharp\GestaoDeTarefas\TestesDeAdaptersDIO\TestesDeAdaptersDIO\obj\Debug\net7.0\AdaptersDIO.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Sources\CSharp\GestaoDeTarefas\TestesDeAdaptersDIO\TestesDeAdaptersDIO\obj\Debug\net7.0\AdaptersDIO.dll
+C:\Users\User\Documents\Sources\CSharp\GestaoDeTarefas\TestesDeAdaptersDIO\TestesDeAdaptersDIO\obj\Debug\net7.0\refint\AdaptersDIO.dll
+C:\Users\User\Documents\Sources\CSharp\GestaoDeTarefas\TestesDeAdaptersDIO\TestesDeAdaptersDIO\obj\Debug\net7.0\AdaptersDIO.pdb
+C:\Users\User\Documents\Sources\CSharp\GestaoDeTarefas\TestesDeAdaptersDIO\TestesDeAdaptersDIO\obj\Debug\net7.0\AdaptersDIO.genruntimeconfig.cache
+C:\Users\User\Documents\Sources\CSharp\GestaoDeTarefas\TestesDeAdaptersDIO\TestesDeAdaptersDIO\obj\Debug\net7.0\ref\AdaptersDIO.dll
